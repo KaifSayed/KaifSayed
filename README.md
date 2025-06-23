@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Engineering and AI
 - 🌱 I’m currently learning Computer Applications
 - 💞️ I’m looking to collaborate on Web dev and AI
-- 📫 Reach me on LinkedIn - Kaif Sayed
+- 📫 Reach me on LinkedIn - https://www.linkedin.com/in/kaif-sayed-9ba23a2b0/
