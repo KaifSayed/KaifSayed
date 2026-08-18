@@ -1,6 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm **Kaif Sayed**
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave" /> 
+    Hey, I'm Kaif Sayed
+  </h1>
+</div>
 
 ### `Software Engineer` · `App Developer` · `AI Explorer` · `Computer Vision Enthusiast`
 
