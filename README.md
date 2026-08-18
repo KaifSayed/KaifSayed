@@ -79,7 +79,7 @@ My curiosity usually leads me toward projects involving:
 Built with Next.js, TypeScript, and Tailwind CSS, Feather Box explores the experience of managing files through a modern web application.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS  
-🔗 [Explore Repository](#) · [Live Demo](#)
+🔗 [Explore Repository](https://github.com/KaifSayed/Feather-Box-FMS) · [Live Demo](https://feather-box.vercel.app/sign-up)
 
 ---
 
@@ -88,7 +88,7 @@ Built with Next.js, TypeScript, and Tailwind CSS, Feather Box explores the exper
 
 An exploration into building applications around AI-powered experiences, with a focus on making learning more interactive and intelligent.
 
-🔗 [Explore Repository](#)
+🔗 [Explore Repository](https://github.com/KaifSayed/ReviseAI)
 
 ---
 
@@ -97,7 +97,7 @@ An exploration into building applications around AI-powered experiences, with a 
 
 An experimental Artificial Neural Network implementation demonstrating a network with 128 layers and 64 neurons. A project focused on understanding what's happening underneath the abstractions.
 
-🔗 [Explore Repository](#)
+🔗 [Explore Repository](https://github.com/KaifSayed/Artificial-Neural-Network)
 
 ---
 
@@ -106,7 +106,7 @@ An experimental Artificial Neural Network implementation demonstrating a network
 
 Because understanding fundamentals makes everything built on top of them stronger.
 
-🔗 [Explore Repository](#)
+🔗 [Explore Repository](https://github.com/KaifSayed/CS50x)
 
 ---
 
@@ -136,14 +136,9 @@ Open Source             ██████████████░░░░�
 ## 📊 GITHUB ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaifSayed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaifSayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=KaifSayed&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaifSayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
 </div>
 
 ---
