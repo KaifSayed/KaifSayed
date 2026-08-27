@@ -141,7 +141,7 @@ Open Source             ██████████████░░░░�
 ## 📊 GITHUB ACTIVITY
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KaifSayed&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" />
+  <img src="https://github-streak-stats-rouge.vercel.app/api/streak?user=KaifSayed&border=343a41&stroke=4b9153&ring=6b2386&fire=6ebd51&sideNums=699cec&radius=15" alt="KaifSayed's GitHub Streak" />
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaifSayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
 </div>
