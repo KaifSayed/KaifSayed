@@ -225,8 +225,3 @@ I'm open to collaborating on:
 <div align="center">
 <sub>Designed with curiosity · Built with code · Powered by caffeine ☕</sub>
 </div>
-
-
-----
-
-[![GitHub Streak](https://github-streak-stats-rouge.vercel.app/api/streak?user=awwabsonday)](https://github.com/awwabsonday)
